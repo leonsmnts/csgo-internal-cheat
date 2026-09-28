@@ -1,4 +1,4 @@
-// dllmain.cpp : Definiert den Einstiegspunkt für die DLL-Anwendung.
+// dllmain.cpp
 #include "pch.h"
 #include "Hack.hpp"
 
