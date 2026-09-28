@@ -1,0 +1,7 @@
+// pch.h
+#ifndef PCH_H
+#define PCH_H
+
+#include "framework.hpp"
+
+#endif //PCH_H
